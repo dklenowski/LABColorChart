@@ -1,10 +1,3 @@
-"""
-Descrição: [Este script gera um espaço de cores CIELAB, também conhecido como L*a*b* após o usário informar os dados.]
-Nome: [LAB ColorChart]
-Data de Criação: [25/11/2023]
-Versão: [v1.0]
-"""
-
 import numpy as np
 import PySimpleGUI as sg
 import os
