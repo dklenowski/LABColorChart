@@ -4,6 +4,6 @@ Com o LAB Color Chart, você pode explorar o espaço LAB de forma intuitiva, dem
 
 Versão: v1.0
 
-![Entrada de Dados](arlienebatista/LABColorChart/blob/main/tela1.png)
+![Entrada de Dados](/tela1.png)
 
-![Gráfico](arlienebatista/LABColorChart/blob/main/tela2.png)
+![Gráfico](/tela2.png)
