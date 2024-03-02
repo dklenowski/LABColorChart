@@ -155,12 +155,8 @@ def main():
     # Cria a janela com o ícone 
     window = sg.Window('LAB Color Chart', 
                        layout, 
-                       # icon="C:/Users/arlie/OneDrive/CIELAB/TESTE/CIELAB.ico", 
                        size=(500, 300), 
                        element_justification='center')
-
-    # Cria a janela
-    #window = sg.Window('LAB Color Chart', layout)
 
     L_valores = []
     a_valores = []
