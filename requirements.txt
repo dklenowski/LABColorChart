@@ -1,5 +1,6 @@
 auto-py-to-exe==2.42.0
 autopilot==0.3.0
+autopep8==2.0.4
 colorama==0.4.6
 colormath==3.0.0
 colorspacious==1.1.2
