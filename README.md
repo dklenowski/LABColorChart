@@ -1,9 +1,9 @@
 # LAB Color Chart
 
-Com o LAB Color Chart, você pode explorar o espaço LAB de forma intuitiva, demonstrar cores, comparar pontos de cores e salvar facilmente seu gráfico
+With LAB Color Chart, you can intuitively explore the LAB space, demonstrate colors, compare color points, and easily save your chart
 
-Versão: v1.2
+Version: v1.2
 
-![Entrada de Dados](/Tela_black.png)
+![Data Input](/Tela_black.png)
 
-![Gráfico](/Tela02.png)
+![Graphic](/Tela02.png)
